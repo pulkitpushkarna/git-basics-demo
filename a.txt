@@ -7,3 +7,4 @@ random
 something new
 
 Hello commit
+Dummy text
