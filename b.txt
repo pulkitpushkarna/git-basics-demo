@@ -1,3 +1,4 @@
 Hello git 2
 abcde
 modification in b.txt
+modification in b.txt
